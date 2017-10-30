@@ -1,4 +1,4 @@
 # PA165
 ## Radovan Lapár, 422256, xlapar
 
-## Actual homework - seminar_03
+## Actual homework - seminar_06
